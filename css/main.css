@@ -1,0 +1,6 @@
+body{
+    -webkit-columns: #333;
+    -moz-columns:  #333;
+    -o-columns: #333 ;
+    columns: #333 ;
+}
