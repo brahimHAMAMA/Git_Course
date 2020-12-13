@@ -4,3 +4,10 @@ body{
     -o-columns: #333 ;
     columns: #333 ;
 }
+*{
+    -webkit-columns: #000;
+    -moz-columns: ;
+    -o-columns: ;
+    columns: ;
+    color:aqua    
+}
